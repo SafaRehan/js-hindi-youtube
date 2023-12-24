@@ -23,3 +23,19 @@
 // let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
+
+
+//POSTFIX INCREMENT
+// let x = 3;
+// let y = x++;
+
+// console.log(x)
+// console.log(y)
+
+//PREFIX INCREMENT
+// let x = 3;
+// let y = ++x;
+
+// console.log(x)
+// console.log(y)
+
