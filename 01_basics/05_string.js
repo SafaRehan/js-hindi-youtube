@@ -68,6 +68,6 @@ const myObject = {
   };
   // Use the valueOf method implicitly by adding the object to a number
   const result = myObject + 8;
-  console.log(typeof result); // Output: 50
-  console.log(result); // Output: number
+  console.log(typeof result); // Output: number
+  console.log(result); // Output: 50
   
