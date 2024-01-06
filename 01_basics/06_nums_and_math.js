@@ -3,11 +3,11 @@ const score = 400
 
 const balance  = new Number(100)
 // console.log(balance);
-// console.log(balance. toString()); // convert into strings
-// console.log(balance. toString().length); // returns length of converted string
-// console.log(balance. toFixed(2)); // returns tw0 zeroes after the decimal
+// console.log(balance.toString()); // convert into strings
+// console.log(balance.toString().length); // returns length of converted string
+// console.log(balance.toFixed(2)); // returns tw0 zeroes after the decimal
 
-const otherNumber = 123.8966
+// const otherNumber = 123.8966
 // console.log(otherNumber.toPrecision(4));
 // console.log(otherNumber.toPrecision(5));
 // console.log(otherNumber.toPrecision(6));
@@ -29,6 +29,10 @@ const otherNumber = 123.8966
 //console.log((Math.random() * 10) + 1)
 //console.log(Math.floor((Math.random() * 10) + 1))  // returns value from 1 to 10
 
-const min = 10
-const max = 20
-console.log(Math.floor(Math.random() * (max - min + 1)) + min) 
+// const min = 10
+// const max = 20
+// console.log(Math.floor(Math.random() * (max - min + 1)) + min) 
+
+// const min = 20
+// const max = 40
+// console.log(Math.floor(Math.random() * (max-min + 1))  + min)
